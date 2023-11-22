@@ -1,4 +1,27 @@
-$ task
+# Simple Task Manager (CLI)
+
+## Overview
+
+This project is a simple task manager implemented in Golang, designed to run on the command line interface (CLI). It allows users to manage their tasks efficiently through simple and intuitive commands.
+
+## Features
+
+- Add tasks with a description and due date.
+- List all tasks.
+- Mark tasks as completed.
+- Remove tasks.
+- View tasks based on their status (completed or pending).
+- Command-line interface for easy interaction.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/simple-task-manager.git
+  ```
+
+``` $ task
 task is a CLI for managing your TODOs.
 
 Usage:
@@ -27,4 +50,4 @@ You have completed the "review talk proposal" task.
 
 $ task list
 You have the following tasks:
-1. some task description
+1. some task description ```
